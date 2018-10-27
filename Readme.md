@@ -34,7 +34,7 @@ Docker container and Pycharm are used to achieve the given task.
 4. Please follow the steps to create the Docker image and run the Docker container.
 
     ````
-    $cd heidelbergcement
+    $cd time_series_analysis
     $docker build -t python/statsmodels:1.0 .
     ```` 
     
@@ -231,7 +231,7 @@ Below are the actual and predicted values.
 
 ### Using docker
 
-1. Extract the tar file `heidelbergcement.tar`
+1. Extract the tar file `time_series_analysis.tar`
 2. After successfully installing Docker and building image using [Environment setup step](##Environment setup) run the project using below command.
 
     ````
